@@ -7,7 +7,7 @@ The Automation Test Fixture are located on the same solution under the project:
 
 SedolAcceptanceTests 
 
-They have been developed with Fit framework which goes well with non-technical users also.
+Ive developed it with Fit framework which goes with with non-technical users also.
 
 EXECUTION and DEMO:
 ...................
@@ -17,7 +17,7 @@ or
 
 Just download the SedolCheckerTesterCandidateVersion.zip and extract it to C:\
 
-You should now have something like this:
+You should not have something like this:
 
 C:\SedolCheckerTesterCandidateVersion
 
