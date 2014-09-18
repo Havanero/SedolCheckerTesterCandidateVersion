@@ -37,3 +37,23 @@ open the browser and navigate to http://localhost
 from there you can select any test link and press the test button
 ...
 
+
+
+Troubleshoot:
+............
+
+1) -->If there is an error with running MSBuild, don't worry just open the solution with Ms Visual Studio and go to the SedolAcceptanceTests and Build it. 
+
+2) --> If there is no java installed then try to extract the zip content into java installed machine
+
+3) --> If fitNesse complains port already in use. Please do the following:
+edit startFitNesse.bat located under  C:\SedolCheckerTesterCandidateVersion\SedolAcceptanceTests\FitNesse
+like this:
+
+
+java -jar fitnesse-standalone.jar -p 8080 -d . -r FitNesseRoot
+
+so instead of just
+java -jar fitnesse-standalone.jar -d . -r FitNesseRoot
+we now passed -p <portNo> to change port.
+
