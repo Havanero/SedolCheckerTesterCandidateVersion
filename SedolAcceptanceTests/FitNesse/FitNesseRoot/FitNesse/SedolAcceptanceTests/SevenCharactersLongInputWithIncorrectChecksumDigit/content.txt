@@ -1,0 +1,4 @@
+|Seven Characters Long Input With Incorrect Checksum Digit|
+|Input SEDOL|Is SEDOL Valid?|Is SEDOL User Defined?|Validation Message?                    |
+|1234567    |False          |False                 |Checksum digit does not agree with the rest of the input.|
+

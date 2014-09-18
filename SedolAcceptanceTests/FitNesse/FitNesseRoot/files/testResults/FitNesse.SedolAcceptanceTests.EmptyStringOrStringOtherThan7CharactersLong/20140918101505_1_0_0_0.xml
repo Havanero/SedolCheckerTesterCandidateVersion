@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong</rootPath>
+    <result>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>197</runTimeInMillis>
+    <content>&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong.SetUp"&gt;.FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong.SetUp&lt;/a&gt; &lt;a href="FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong.SetUp?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;span class="fit_interpreter"&gt;SedolAcceptanceTests.SedolAutomation&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"&gt;
+		&lt;li&gt;
+			&lt;a href="FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong.SetUp" class="static"&gt;Set Up&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="4"&gt;&lt;span class="fit_member"&gt;Empty String Or String Other Than 7 Characters Long&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Input SEDOL&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Is SEDOL Valid?&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Is SEDOL User Defined?&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Validation Message?&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;""&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;Input string was not 7-characters long.&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;12&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;Input string was not 7-characters long.&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;123456789&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;False&lt;/td&gt;
+		&lt;td class="pass"&gt;Input string was not 7-characters long.&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>EmptyStringOrStringOtherThan7CharactersLong</relativePageName>
+          </result>
+      <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>198</totalRunTimeInMillis>
+  
+</testResults>
+

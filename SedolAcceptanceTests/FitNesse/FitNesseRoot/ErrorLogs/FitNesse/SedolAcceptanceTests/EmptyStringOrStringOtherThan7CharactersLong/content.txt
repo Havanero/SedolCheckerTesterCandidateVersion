@@ -1,0 +1,8 @@
+
+!3 !-fit:"..\Runner\Runner.exe"-!
+|'''Date: '''| 11:07:53 AM (BST) on Thursday, September 18, 2014 |
+|'''Test Page: '''|.FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong|
+|'''Command: '''| !-"..\Runner\Runner.exe" -r fitnesse.fitserver.FitServer,"..\Runner\fit.dll" "..\bin\Debug\SedolAcceptanceTests.dll" IT004068 65279 3863-! |
+|'''Exit code: '''| 0 |
+|'''Time elapsed: '''| 1.687 seconds |
+

@@ -1,0 +1,5 @@
+|Valid Sedol That Is Not Defined By The End User(Leading Character Is Not 9)|
+|Input SEDOL  |Is SEDOL Valid? |Is SEDOL User Defined? |Validation Message? |
+|0709954      |True            |False                  |                  |
+|B0YBKJ7      |True            |False                  |                  |
+|!-B0Ybkj7-!  |True            |False                  |                  |

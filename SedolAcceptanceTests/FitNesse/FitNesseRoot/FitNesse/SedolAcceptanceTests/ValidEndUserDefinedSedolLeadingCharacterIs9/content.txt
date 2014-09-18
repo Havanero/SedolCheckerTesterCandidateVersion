@@ -1,0 +1,5 @@
+|Valid End User Defined SEDOL (leading character is 9)                 |
+|Input SEDOL|Is SEDOL Valid?|Is SEDOL User Defined?|Validation Message?|
+|9123458    |True           |True                 |                   |
+|9aBcDe1    |True           |True                  |                   |
+

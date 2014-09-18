@@ -1,0 +1,6 @@
+#testing Sedol
+!define COMMAND_PATTERN {%m -r fitnesse.fitserver.FitServer,"..\Runner\fit.dll" %p}
+!define TEST_RUNNER {"..\Runner\Runner.exe"}
+!path "..\bin\Debug\SedolAcceptanceTests.dll"
+
+

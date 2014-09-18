@@ -1,0 +1,5 @@
+|Empty String Or String Other Than 7 Characters Long                                       |
+|Input SEDOL|Is SEDOL Valid?|Is SEDOL User Defined?|Validation Message?                    |
+|""         |False          |False                 |Input string was not 7-characters long.|
+|12         |False          |False                 |Input string was not 7-characters long.|
+|123456789  |False          |False                 |Input string was not 7-characters long.|

@@ -1,0 +1,8 @@
+
+!3 !-fit:"..\Runner\Runner.exe"-!
+|'''Date: '''| 11:06:07 AM (BST) on Thursday, September 18, 2014 |
+|'''Test Page: '''|.FitNesse.SedolAcceptanceTests|
+|'''Command: '''| !-"..\Runner\Runner.exe" -r fitnesse.fitserver.FitServer,"..\Runner\fit.dll" "..\bin\Debug\SedolAcceptanceTests.dll" IT004068 65208 3863-! |
+|'''Exit code: '''| 3 |
+|'''Time elapsed: '''| 2.088 seconds |
+

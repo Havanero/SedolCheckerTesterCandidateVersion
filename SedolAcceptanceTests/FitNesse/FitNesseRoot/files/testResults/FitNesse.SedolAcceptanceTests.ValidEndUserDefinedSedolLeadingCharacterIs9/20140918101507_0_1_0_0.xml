@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9</rootPath>
+    <result>
+    <counts>
+      <right>2</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>6</runTimeInMillis>
+    <content>&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9.SetUp"&gt;.FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9.SetUp&lt;/a&gt; &lt;a href="FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9.SetUp?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;span class="fit_interpreter"&gt;SedolAcceptanceTests.SedolAutomation&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"&gt;
+		&lt;li&gt;
+			&lt;a href="FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9.SetUp" class="static"&gt;Set Up&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="4"&gt;&lt;span class="fit_member"&gt;Valid End User Defined SEDOL (leading character is 9)&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Input SEDOL&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Is SEDOL Valid?&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Is SEDOL User Defined?&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_member"&gt;Validation Message?&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9123458&lt;/td&gt;
+		&lt;td class="pass"&gt;True&lt;/td&gt;
+		&lt;td class="fail"&gt;True &lt;span class="fit_label"&gt;expected&lt;/span&gt;&lt;hr /&gt;False &lt;span class="fit_label"&gt;actual&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_grey"&gt; blank&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9aBcDe1&lt;/td&gt;
+		&lt;td class="pass"&gt;True&lt;/td&gt;
+		&lt;td class="fail"&gt;True &lt;span class="fit_label"&gt;expected&lt;/span&gt;&lt;hr /&gt;False &lt;span class="fit_label"&gt;actual&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;span class="fit_grey"&gt; blank&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;</content>
+    <relativePageName>ValidEndUserDefinedSedolLeadingCharacterIs9</relativePageName>
+          </result>
+      <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>7</totalRunTimeInMillis>
+  
+</testResults>
+

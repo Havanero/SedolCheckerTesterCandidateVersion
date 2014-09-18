@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FitNesse.SedolAcceptanceTests</rootPath>
+    <pageHistoryReference>
+    <name>FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong</name>
+    <date>09/18/2014 10:15:05</date>
+    <pageHistoryLink>FitNesse.SedolAcceptanceTests.EmptyStringOrStringOtherThan7CharactersLong?pageHistory&amp;resultDate=20140918101505</pageHistoryLink>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>197</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FitNesse.SedolAcceptanceTests.SevenCharactersLongInputWithIncorrectChecksumDigit</name>
+    <date>09/18/2014 10:15:06</date>
+    <pageHistoryLink>FitNesse.SedolAcceptanceTests.SevenCharactersLongInputWithIncorrectChecksumDigit?pageHistory&amp;resultDate=20140918101506</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>1238</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9</name>
+    <date>09/18/2014 10:15:07</date>
+    <pageHistoryLink>FitNesse.SedolAcceptanceTests.ValidEndUserDefinedSedolLeadingCharacterIs9?pageHistory&amp;resultDate=20140918101507</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>6</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FitNesse.SedolAcceptanceTests.ValidSedolThatIsNotDefinedByTheEndUserLeadingCharacterIsNot9</name>
+    <date>09/18/2014 10:15:07</date>
+    <pageHistoryLink>FitNesse.SedolAcceptanceTests.ValidSedolThatIsNotDefinedByTheEndUserLeadingCharacterIsNot9?pageHistory&amp;resultDate=20140918101507</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>16</runTimeInMillis>
+  </pageHistoryReference>
+    <finalCounts>
+    <right>2</right>
+    <wrong>2</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>3295</totalRunTimeInMillis>
+
+</suiteResults>
+
